@@ -33,7 +33,7 @@ The dataset used contains weather data for Seattle, comprising 1461 rows with th
 - **wind**: Wind speed.
 - **weather**: Type of weather (drizzle, rain, sun, snow, fog).
 
-You can download the dataset [here](#).
+You can download the dataset [here](https://github.com/AbhishekThakur007/WeatherVision-Machine-Learning-Based-Weather-Prediction/blob/main/weather.csv).
 
 ---
 
